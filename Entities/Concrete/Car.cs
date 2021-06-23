@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 
 namespace Entities.Concrete
 {
-    public class Car: IEntity //IEntity interface implementasyonu 
-    {
+    public class Car: IEntity     {
         //public Car()
         //{
 
